@@ -1,3 +1,4 @@
+name             "newrelic_monitoring"
 maintainer       "Ry4an Brase"
 maintainer_email "rbrase-opscode@ry4an.org"
 license          "Apache 2.0"
